@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img id="avatar" class="avatar" src="./images/fawm-profile.jpg" alt="Avatar">
+            <h1>🎵 Music Library 🎵</h1>
+            <p class="subtitle">kpollock's Music</p>
+        </header>
+
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search for songs...">
+        </div>
+
+        <div id="musicGrid" class="music-grid"></div>
+
+        <div class="pagination">
+            <button id="prevBtn" class="page-btn">← Previous</button>
+            <span id="pageInfo" class="page-info"></span>
+            <button id="nextBtn" class="page-btn">Next →</button>
+        </div>
+
+        <div id="playerModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <img id="modalImage" src="" alt="Album Art">
+                <h2 id="modalTitle"></h2>
+                <p id="modalArtist"></p>
+                <audio id="audioPlayer" controls>
+                    <source id="audioSource" src="" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
