@@ -14,7 +14,7 @@
             <p class="subtitle">kpollock's Music</p>
         </header>
 
-        <div class="search-bar">
+         <div class="search-bar">
             <input type="text" id="searchInput" placeholder="Search for songs...">
         </div>
 
@@ -36,6 +36,14 @@
                     <source id="audioSource" src="" type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
+                
+                <div class="share-section">
+                    <label for="shareLink">Direct link to this song:</label>
+                    <div class="share-input-group">
+                        <input type="text" id="shareLink" readonly>
+                        <button onclick="copyShareLink()" class="copy-btn">Copy</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
