@@ -5,12 +5,19 @@
         "artist": "Kirsty Pollock",
         "image": "images/growing-your-garden.jpg",
         "audio": "music/growing-your-garden.mp3"
-    },  
+    },
     {
         "id": 2,
         "title": "Tracks in the Snow",
         "artist": "Kirsty Pollock",
         "image": "images/tracks-in-the-snow.jpg",
         "audio": "music/tracks-in-the-snow.mp3"
-    }   
+    },
+    {
+        "id": 3,
+        "title": "Fantasist",
+        "artist": "Kirsty Pollock",
+        "image": "images/fantasist.jpg",
+        "audio": "music/fantasist.mp3"
+    }
 ]
