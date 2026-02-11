@@ -19,5 +19,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/fantasist.jpg",
         "audio": "music/fantasist.mp3"
+    },
+    {
+        "id": 4,
+        "title": "Silhouettes",
+        "artist": "Kirsty Pollock",
+        "image": "images/silhouettes.jpg",
+        "audio": "music/silhouettes.mp3"
     }
 ]
