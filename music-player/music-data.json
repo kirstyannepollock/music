@@ -33,5 +33,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/buck-up-your-act.jpg",
         "audio": "music/buck-up-your-act.mp3"
+    },
+    {
+        "id": 6,
+        "title": "La-la-la",
+        "artist": "Kirsty Pollock",
+        "image": "images/la-la-la.jpg",
+        "audio": "music/la-la-la.mp3"
     }
 ]
