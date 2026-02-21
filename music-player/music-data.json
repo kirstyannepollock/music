@@ -40,5 +40,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/la-la-la.jpg",
         "audio": "music/la-la-la.mp3"
+    }},
+    {
+        "id": 7,
+        "title": "La-la-la",
+        "artist": "Kirsty Pollock",
+        "image": "images/BACEbunny.jpg",
+        "audio": "music/BACEbunny.mp3"
     }
 ]
