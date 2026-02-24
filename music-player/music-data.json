@@ -47,5 +47,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/BACEbunny.jpg",
         "audio": "music/BACEbunny.mp3"
+    },
+    {
+        "id": 8,
+        "title": "The Healer",
+        "artist": "Kirsty Pollock",
+        "image": "images/the-healer.jpg",
+        "audio": "music/the-healer.mp3"
     }
 ]
