@@ -54,5 +54,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/the-healer.jpg",
         "audio": "music/the-healer.mp3"
+    },
+    {
+        "id": 9,
+        "title": "The Devil Wants You Distracted",
+        "artist": "Kirsty Pollock",
+        "image": "images/the-devil-wants-you-distracted.jpg",
+        "audio": "music/the-devil-wants-you-distracted.mp3"
     }
 ]
