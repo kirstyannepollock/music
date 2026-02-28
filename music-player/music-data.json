@@ -61,5 +61,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/the-devil-wants-you-distracted.jpg",
         "audio": "music/the-devil-wants-you-distracted.mp3"
+    },
+    {
+        "id": 10,
+        "title": "Still River",
+        "artist": "Kirsty Pollock",
+        "image": "images/still-river.jpg",
+        "audio": "music/still-river.mp3"
     }
 ]
