@@ -68,5 +68,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/still-river.jpg",
         "audio": "music/still-river.mp3"
+    },
+    {
+        "id": 11,
+        "title": "ABCDEFG",
+        "artist": "Kirsty Pollock",
+        "image": "images/ABCDEFG.jpg",
+        "audio": "music/ABCDEFG.mp3"
     }
 ]
