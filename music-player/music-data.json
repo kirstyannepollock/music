@@ -75,5 +75,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/ABCDEFG.jpg",
         "audio": "music/ABCDEFG.mp3"
+    },
+    {
+        "id": 12,
+        "title": "Beep! Boop!",
+        "artist": "Kirsty Pollock",
+        "image": "images/beep-boop.jpg",
+        "audio": "music/beep-boop.mp3"
     }
 ]
