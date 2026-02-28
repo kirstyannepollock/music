@@ -2,7 +2,7 @@
 let musicData = [];
 
 // Pagination settings
-const itemsPerPage = 12;
+const itemsPerPage = 14;
 let currentPage = 1;
 let filteredData = [];
 
