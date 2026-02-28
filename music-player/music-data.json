@@ -82,5 +82,12 @@
         "artist": "Kirsty Pollock",
         "image": "images/beep-boop.jpg",
         "audio": "music/beep-boop.mp3"
+    },
+    {
+        "id": 13,
+        "title": "Warm Hot Intergalactic Medium",
+        "artist": "Kirsty Pollock",
+        "image": "images/whim.jpg",
+        "audio": "music/whim.mp3"
     }
 ]
