@@ -89,5 +89,13 @@
         "artist": "Kirsty Pollock",
         "image": "images/whim.jpg",
         "audio": "music/whim.mp3"
+    },
+    ,
+    {
+        "id": 14,
+        "title": "Fake It",
+        "artist": "Kirsty Pollock",
+        "image": "images/fake-it.jpg",
+        "audio": "music/fake-it.mp3"
     }
 ]
